@@ -1,4 +1,3 @@
-# Definition for singly-linked list.
 import heapq
 from typing import List, Optional
 
